@@ -41,7 +41,7 @@ ul {
 
 .userBox{
     min-height: 400px;
-    background-image: url("backgroundPic.jpg");
+    background-image: url("Images/backgroundPic.jpg");
     background-size: cover;
     opacity: 75%;
     text-align: center;
@@ -60,7 +60,7 @@ h2{
 .container{
     margin:auto;
     overflow:hidden;
-    background-image: url("backgroundPic.jpg");
+    background-image: url("Images/backgroundPic.jpg");
 
 }
 img{
@@ -90,7 +90,7 @@ body{
 footer{
     box-sizing: 2px;
     margin-top: 65%;
-    background-image: url("backgroundPic.jpg");
+    background-image: url("Images/backgroundPic.jpg");
     
 }
 
@@ -117,5 +117,5 @@ header .headerName h2{
 }
 
 .headerName{
-  background-image: url("backgroundPic.jpg");
+  background-image: url("Images/backgroundPic.jpg");
 }
