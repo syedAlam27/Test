@@ -1,0 +1,121 @@
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    height: 50px;
+    overflow: hidden;
+    background-color: #eb5e28;
+  }
+  
+ 
+  .myList li a {
+    display: block;
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .myList button a{
+    color: whitesmoke;
+    text-decoration: none;
+  }
+   button{
+    float: right;
+    height:50px;
+    background:lightcoral;
+    text-emphasis: bold;
+    border:0;
+    padding-left: 14px;
+    padding-right:16px;
+    color:#ffffff;
+    opacity: 50%;
+ }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    display: block;
+    background-color: lightsalmon;
+    background-size: auto;
+  }
+
+.userBox{
+    min-height: 400px;
+    background-image: url("backgroundPic.jpg");
+    background-size: cover;
+    opacity: 75%;
+    text-align: center;
+}
+
+.userboxStuff h2, h3{
+  text-align:center;
+  margin: auto;
+  color: whitesmoke;
+
+}
+
+h2{
+  padding: 20px;
+}
+.container{
+    margin:auto;
+    overflow:hidden;
+    background-image: url("backgroundPic.jpg");
+
+}
+img{
+    height: 200px;
+    width: 200px;
+    padding: 111px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.myPictures{
+    margin-top: 30px;
+}
+.pic{
+    float: left;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    padding:0;
+    margin:0;
+    background-color:#f4f4f4;
+    text-align: center;
+  }
+
+footer{
+    box-sizing: 2px;
+    margin-top: 65%;
+    background-image: url("backgroundPic.jpg");
+    
+}
+
+footer h3{
+  color: whitesmoke;
+}
+/* why no work? :( */
+a:active{
+  color: white;
+}
+
+
+
+header .headerName h2{
+  color:#ffffff;
+}
+
+.myList {
+  padding: 10px;
+}
+
+.pic h2{
+  color: gray;
+}
+
+.headerName{
+  background-image: url("backgroundPic.jpg");
+}
